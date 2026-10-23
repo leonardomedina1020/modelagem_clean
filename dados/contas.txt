@@ -1,0 +1,10 @@
+{
+    "399": {
+        "cliente": {
+            "nome": "cewcececee",
+            "cpf": "399"
+        },
+        "saldo": 100.0,
+        "historico": []
+    }
+}
